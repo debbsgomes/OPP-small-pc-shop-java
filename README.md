@@ -1,3 +1,5 @@
 Classes, objects, and accessor methods
 
 Implement a model class in Java and develop a test application for creating and using different objects from that model. Create a class with five attributes for creating Computer-type objects. The class must have two constructor methods, one without parameters (default constructor) and another with five parameters related to the attributes of the Computer class. In addition, the class must contain accessor methods (setters and getters) for each attribute and a method for displaying all attributes called a print. Create another application (Class) that instantiates four objects of type Computer, fills the attributes with data requested from the user, and at the end displays all the attributes of the four objects created by invoking the print method. To create the four objects, half use the default constructor, and the other half use the constructor that receives all attributes. Develop the class and application separately. The project must then be documented in a Word file and posted to the assessment environment. Also, send the source files (.java) of the two applications.
+
+PS: It is just a small college project.
